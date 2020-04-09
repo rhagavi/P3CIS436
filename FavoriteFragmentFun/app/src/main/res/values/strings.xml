@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FavoriteFragmentFun</string>
+    <string name="menu_marvel">Marvel</string>
+    <string name="menu_dc">DC</string>
+</resources>
